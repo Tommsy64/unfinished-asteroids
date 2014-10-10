@@ -1,12 +1,14 @@
 # Unfinished asteroids
 
+View project demo [here](http://tommsy64.github.io/unfinished-asteroids.)!
+
 [Follow to the wiki](https://github.com/rezoner/unfinished-asteroids/wiki) where I've prepared a plot for you - our new employee.
 
 ## Afterword
 
 I will try to get a new story every Saturday.
 
-For support consider: 
+For support consider:
 
 [<img src="https://raw.githubusercontent.com/twolfson/gittip-badge/0.1.0/dist/gittip.png">](http://gratipay.com/rezoner/) or voting [my game on greenlight](http://steamcommunity.com/sharedfiles/filedetails/stats/214144938)
 
@@ -24,5 +26,5 @@ Every time I get a new job I am being thrown right into middle of the action. No
 
 It is a very stressful and frustrating at the beginning - but - after a short while not only I have completed the task - but also have this feeling that in a month of practice I've learned more than in a year of solving theoretical and imaginary problems.
 
-So - I've prepared an unfinished game - and a plot for you as a new employee. 
+So - I've prepared an unfinished game - and a plot for you as a new employee.
 Let me know does it work and what was your experience with it.
