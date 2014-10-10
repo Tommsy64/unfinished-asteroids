@@ -1,6 +1,6 @@
 # Unfinished asteroids
 
-View project demo [here](http://tommsy64.github.io/unfinished-asteroids.)!
+View project demo [here](http://tommsy64.github.io/unfinished-asteroids)!
 
 [Follow to the wiki](https://github.com/rezoner/unfinished-asteroids/wiki) where I've prepared a plot for you - our new employee.
 
